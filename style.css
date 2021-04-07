@@ -1,0 +1,334 @@
+@import url('https://fonts.googleapis.com/css2?family=Courgette&family=Kaushan+Script&family=Lobster&family=Satisfy&family=Source+Code+Pro:wght@500&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Courgette&family=Kalam:wght@300&family=Patrick+Hand&family=Roboto+Mono:wght@500&family=Source+Sans+Pro:wght@300&display=swap');
+
+
+body{
+    margin: 0px;
+}
+
+.a1{
+    position: absolute;
+    height: 1200px;
+    width: 750px;
+    background-color: rgb(66, 179, 141);
+    left: 28%;
+}
+
+.aa1{
+    position: absolute;
+    background-color: white;
+    height: 350px;
+    width: 100%;
+}
+
+.l{
+    position: absolute;
+    height: 160px;
+    width: 160px;
+    left: 40%;
+    top: 10%;
+}
+
+p{
+    position: absolute;
+    top: 46%;
+    left: 20%;
+    font-family: 'Kaushan Script', cursive;
+    /* font-family: 'Courgette', cursive;  */
+    font-size: 50px;
+    font-weight: 400;
+}
+.sp1{
+    color: teal;
+}
+
+.a2{
+    position: absolute;
+    background-color: white;
+    height: 780px;
+    width: 650px;
+    top: 30%;
+    left: 2%;
+    border-bottom-right-radius: 3%;
+}
+
+.aa2{
+    position: absolute;
+    height: 700px;
+    width: 100%;
+    /* background-color: violet; */
+}
+
+.b1{
+    position: absolute;
+    /* background-color: turquoise; */
+    height: 50px;
+    width: 90%;
+    left: 3%;
+    top: 3%;
+    padding-right: 10px;
+    padding-right: 10px;
+    box-sizing: border-box;
+}
+
+.bb1{
+    position: absolute;
+    /* background-color: yellow; */
+    height:47px ;
+    width:90% ;
+    left: 1%;
+}
+
+.l1{
+    position: absolute;
+    /* background-color: yellowgreen; */
+    height: 45px;
+    width: 90%;
+    left: 1%;
+    top: 1%;
+}
+
+.sp2{
+    position: absolute;
+    font-family: 'Kalam', cursive;
+    font-size: 18px;
+    font-weight: 200;
+    top: 30%;
+    color: rgb(65, 62, 62);
+}
+.sp4{
+    position: absolute;
+    font-family: 'Kalam', cursive;
+    font-size: 18px;
+    top: 30%;
+    color: rgb(143, 141, 141);
+}
+
+.in1{
+    position: absolute;
+    height:35px ;
+    width:400px;
+    background-color: transparent;
+    top: 5%;
+    border-top: none;
+    border-right: none;
+    border-left: none;
+
+}
+
+#c2{
+    position: absolute;
+    top: 10%;
+}
+
+#c3{
+    position: absolute;
+    top: 17%;
+}
+
+.e1{
+    position: absolute;
+    /* background-color: blanchedalmond; */
+    height: 200px;
+    width: 200px;
+    top: 45%;
+    left: 6%;
+}
+
+.sp3{
+    font-family: 'Kalam', cursive;
+    position: absolute;
+    font-size: 23px;
+    font-weight: 415;
+    top: 4%;
+}
+
+#ff1{
+     position: absolute;
+     top:45px ;
+     height: 10%;
+     width: 7.5%;
+}
+#ff2{
+    position: absolute;
+    top: 70px;
+    height: 10%;
+    width: 7.5%;
+}
+#ff3{
+    position: absolute;
+    top: 95px;
+    height: 10%;
+    width: 7.5%;
+}
+#ff4{
+    position: absolute;
+    top:120px ;
+    height: 10%;
+    width: 7.5%;
+}
+#ff5{
+    position: absolute;
+    top: 145px;
+    height: 10%;
+    width: 7.5%;
+}
+#ff6{
+    position: absolute;
+    top:170px ;
+    height: 10%;
+    width: 7.5%;
+}
+
+#g1{
+     position: absolute;  
+     top:45px ;
+     width: 100px;
+     left: 15%;
+}
+#g2{
+    position: absolute;  
+    top: 70px;
+    width: 100px;
+    left: 15%;
+}
+#g3{
+    position: absolute;  
+    top:95px ;
+    width: 100px;
+    left: 15%;
+}
+#g4{
+    position: absolute;  
+    top:120px ;
+    width: 120px;
+    left: 15%;
+}
+#g5{
+    position: absolute;  
+    top:145px ;
+    width: 100px;
+    left: 15%;
+}
+#g6{
+    position: absolute;  
+    top:170px ;
+    width: 100px;
+    left: 15%;
+}
+
+.h1{
+    position: absolute;
+    /* background-color: burlywood; */
+    height: 320px;
+    width: 350px;
+    top: 62%;
+    left: 6%;
+}
+
+#o1{
+    position: absolute;
+    top: 55px;
+    width:25px ;
+    height: 15px;
+}
+#o2{
+    position: absolute;
+    top: 83px;
+    width:25px ;
+    height: 15px;
+}
+#o3{
+    position: absolute;
+    top: 110px;
+    width:25px ;
+    height: 15px;
+}
+#o4{
+    position: absolute;
+    top: 138px;
+    width: 25px;
+    height: 15px;
+}
+
+
+#oo1{
+    position: absolute;
+    top: 53px;
+    width: 50px;
+    left: 9%;
+}
+#oo2{
+    position: absolute;
+    top:80px ;
+    width:70px;
+    left: 9%;   
+}
+#oo3{
+    position: absolute;
+    top:107px ;
+    width: 190px;
+    left: 9%;   
+}
+#oo4{
+    position: absolute;
+    top:135px ;
+     width: 50px;
+    left: 9%;   
+}
+
+#ssp1{
+    position: absolute;
+    top: 78%;
+    left: 7%;
+}
+
+#t{
+    position: absolute;
+    top: 81%;
+    left: 7%;
+    font-family: 'Kalam', cursive;
+    font-size: 16px;
+    color: rgb(143, 141, 141);
+
+}
+
+.btn{
+    position: absolute;
+    top: 1095px;
+    right: 15%;
+    position: absolute;
+    height: 50px;
+    /* top: 960px; */
+    /* left: 900px; */
+    width: 100px;
+    height: 30px;
+    border-radius: 30px;
+    font-size: 16px;
+    border: 2px solid transparent;
+    color: white;
+    background-color: rgb(66, 169, 141);
+    opacity: 0.8;
+}
+
+.btn:hover{
+    opacity: 1;
+}
+
+
+
+#arrow{
+    position: absolute;
+    width: 40px;
+    margin: 10px;
+    height: 40px;
+    border-radius: 50%;
+    border: 2px solid transparent;
+    font-size: 19px;
+    background-color: rgb(66, 169, 141);
+    /* opacity: 0.7; */
+    color: white;
+    left: 5%;
+    top: 7%;
+
+}
