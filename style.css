@@ -10,7 +10,7 @@ body{
     position: absolute;
     height: 1200px;
     width: 750px;
-    background-color: teal;
+    background-color: rgb(68,175,175);
     left: 28%;
 }
 
@@ -307,7 +307,7 @@ p{
     font-size: 16px;
     border: 2px solid transparent;
     color: white;
-    background-color: rgb(66, 169, 141);
+    background-color: teal;
     opacity: 0.8;
 }
 
@@ -325,7 +325,7 @@ p{
     border-radius: 50%;
     border: 2px solid transparent;
     font-size: 19px;
-    background-color: rgb(66, 169, 141);
+    background-color: teal;
     /* opacity: 0.7; */
     color: white;
     left: 5%;
